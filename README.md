@@ -54,4 +54,6 @@ Explorar com una metodologia XAI basada en exemples pot ajudar a interpretar els
 
 - Es recomana tenir accés a Google Drive per a l’emmagatzematge dels models i resultats.
 - L’estructura de carpetes i noms ha de mantenir-se coherent per garantir la correcta execució dels scripts.
+- Els scripts no són independents, cal executar-los en l'ordre en que s'han explicat.
+  
 

@@ -35,7 +35,8 @@ Els experiments estan organitzats en diferents fitxers, cadascun amb una funció
 ### `AnalisiDocDistancies.py`
 - Anàlisi comparativa quantitativa entre les dues mesures de distància utilitzades (L2 i cosinus). Per fer aquesta s'ha utilitzat la moda.
 
----
+### `Diagrama de Gantt.xlsx`
+--- Diagrama amb les tasques del cicle de vida del projecte
 
 ## 🧠 Objectiu
 
